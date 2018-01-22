@@ -1,0 +1,9 @@
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\obj\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.Cache
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+c:\users\administrator.pc-201707021624\documents\visual studio 2015\Projects\First_WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
